@@ -1,0 +1,18 @@
+{
+    "name": "hw4",
+    "version": "1.0.0",
+    "description": "crash course",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server",
+      "dev": "nodemon server"
+    },
+    "author": "rakpong",
+    "license": "ISC",
+    "dependencies": {
+      "uuid": "^3.3.2"
+    },
+    "devDependencies": {
+      "nodemon": "^1.18.10"
+    }
+  }
